@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-html-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "dependencies": {
+    "tailwindcss": "^3.0.23"
+  },
+  "devDependencies": {
+    "hint": "^6.1.10",
+    "stylelint": "^14.6.0",
+    "stylelint-config-standard": "^25.0.0",
+    "stylelint-csstree-validator": "^2.0.0",
+    "stylelint-scss": "^4.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
